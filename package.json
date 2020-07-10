@@ -1,0 +1,33 @@
+{
+  "name": "snapshotsubject",
+  "version": "1.0.0",
+  "description": "RxJs SnapShot Replay Subject and other utils",
+  "main": "dist/index.js",
+  "scripts": {
+    "build-ts": "tsc",
+    "watch-ts": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular-fintech/SnapshotSubject.git"
+  },
+  "keywords": [
+    "rxjs",
+    "replaysubject",
+    "snapshot",
+    "delta"
+  ],
+  "author": "Mrudang Majmudar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular-fintech/SnapshotSubject/issues"
+  },
+  "homepage": "https://github.com/angular-fintech/SnapshotSubject#readme",
+  "dependencies": {
+    "rxjs": "^6.6.0"
+  },
+  "devDependencies": {
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.6"
+  }
+}
